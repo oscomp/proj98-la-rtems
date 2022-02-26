@@ -1,4 +1,4 @@
-# projX-la-rtems
+# proj98-la-rtems
 
 ## 项目名称
 
